@@ -128,7 +128,7 @@
           </div>
         </div>
 
-         <!-- Project Three Row -->
+        <!-- Project Three Row -->
         <div class="row justify-content-center no-gutters mb-5 mb-lg-5">
           <div class="col-lg-3">
           </div>
@@ -175,7 +175,81 @@
             <p class="text-black-50">Os gestores responsáveis pelos serviços prestados pelo Síndico Pró MS são <strong>Daniel Ferelli, Fernando Neves e Fabrício Maldonado</strong> que juntos começaram em dezembro de 2016 a administrar o condomínio Torres de España em Campo Grande - MS nas funções de Síndico, Subsíndico e Gerente Predial, que com ética nos relacionamentos com nossos condôminos, clientes e parceiros, prezando sempre pela firmeza, clareza e objetividade nos serviços prestados, com manutenções preventivas, reformas necessárias para manter o condomínio sempre apresentável, atualizações para deixar o condomínio competitivo frente a novos empreendimento como por exemplo: novos halls de entrada, parquinho e academia nova completa,  tudo isso buscando sempre a valorização do patrimônio dos condôminos, além de encaixar o máximo de benefícios numa taxa condominial menor possível e justa, que após tantos anos de trabalho que administramos essa unidade, ela continua fazendo parte na nossa pasta e estamos alcançando ainda mais.</p>
           </div>
         </div>
-        <img class="img-fluid" src="View/img/city.png" alt="">
+        <hr class="divider-main mt-4 mb-4">
+        <div class="row">
+          <div class="col-sm-4">
+            <div class="team-member">
+              <img class="mx-auto rounded-circle" src="View/img/team/1.jpg" alt="">
+              <h4>Daniel Ferelli</h4>
+              <p class="text-muted">Síndico</p>
+              <ul class="list-inline social-buttons">
+                <li class="list-inline-item">
+                  <a href="#">
+                    <i class="fab fa-twitter"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="#">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="#">
+                    <i class="fab fa-linkedin-in"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="team-member">
+              <img class="mx-auto rounded-circle" src="View/img/team/3.jpg" alt="">
+              <h4>Fernando Neves</h4>
+              <p class="text-muted">Subsíndico</p>
+              <ul class="list-inline social-buttons">
+                <li class="list-inline-item">
+                  <a href="#">
+                    <i class="fab fa-twitter"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="#">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="#">
+                    <i class="fab fa-linkedin-in"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div class="col-sm-4">
+            <div class="team-member">
+              <img class="mx-auto rounded-circle" src="View/img/team/2.jpg" alt="">
+              <h4>Fabrício Maldonado</h4>
+              <p class="text-muted">Gerente Predial</p>
+              <ul class="list-inline social-buttons">
+                <li class="list-inline-item">
+                  <a href="#">
+                    <i class="fab fa-twitter"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="#">
+                    <i class="fab fa-facebook-f"></i>
+                  </a>
+                </li>
+                <li class="list-inline-item">
+                  <a href="#">
+                    <i class="fab fa-linkedin-in"></i>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
       </div>
     </section>
 
@@ -209,15 +283,7 @@
 
         <div class="row">
 
-          <div class="col-md-4 mb-3 mb-md-0">
-            <div class="card py-4 h-100">
-              <div class="card-body text-center">
-                <i class="fas fa-map-marked-alt text-primary mb-2"></i>
-                <h4 class="text-uppercase m-0">Endereço</h4>
-                <hr class="my-4">
-                <div class="small text-black-50">4923 Market Street, Orlando FL</div>
-              </div>
-            </div>
+          <div class="col-md-2 mb-3 mb-md-0">
           </div>
 
           <div class="col-md-4 mb-3 mb-md-0">
@@ -227,7 +293,7 @@
                 <h4 class="text-uppercase m-0">E-mail</h4>
                 <hr class="my-4">
                 <div class="small text-black-50">
-                  <a href="mailto:hello@yourdomain.com">hello@yourdomain.com</a>
+                  <a href="mailto:sindicoproms@gmail.com">sindicoproms@gmail.com</a>
                 </div>
               </div>
             </div>
@@ -239,9 +305,14 @@
                 <i class="fas fa-mobile-alt text-primary mb-2"></i>
                 <h4 class="text-uppercase m-0">Telefone</h4>
                 <hr class="my-4">
-                <div class="small text-black-50"><a href="tel:+5567981126406">(67) 98112-6406</a></div>
+                <div class="small text-black-50">Daniel Ferelli: <a href="tel:+5567981458526">(67) 98145-8526</a></div>
+                <div class="small text-black-50">Fernando Neves: <a href="tel:+5567992084401">(67) 99208-4401</a></div>
+                <div class="small text-black-50">Fabrício Maldonado: <a href="tel:+5567981126406">(67) 98112-6406</a></div>
               </div>
             </div>
+          </div>
+
+          <div class="col-md-2 mb-3 mb-md-0">
           </div>
         </div>
 
