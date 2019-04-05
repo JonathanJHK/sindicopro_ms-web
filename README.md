@@ -1,1 +1,1 @@
-# Síndicado Pró MS - Web
+# Síndico Pró MS - Web
