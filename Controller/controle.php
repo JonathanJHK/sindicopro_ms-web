@@ -2,17 +2,8 @@
 
  
 /*
- * Material utilizado para as aulas práticas da disciplinas da Faculdade de
- * Computação da Universidade Federal de Mato Grosso do Sul (FACOM / UFMS).
- * Seu uso é permitido para fins apenas acadêmicos, todavia mantendo a
- * referência de autoria.
- *
- *
- *
- * Classe controladora que define gerencia do fluxo da aplicação.
- *
- * @author Jane Eleutério 
- * @version 2.0 - 19/Dez/2016
+ * @author Jonathan H. Kinjo
+ * @version 1.0 - 4/Apr/2019
  */
 
 

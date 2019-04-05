@@ -1,1 +1,1 @@
-# sindicopro_ms-web
+# Síndicado Pró MS - Web
