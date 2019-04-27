@@ -479,3 +479,22 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 }
 
 .recuo { text-indent:4em }
+.list-m {
+  list-style-type:disc;
+}
+
+@media only screen and (max-width: 600px) {
+  .modal-title {
+    font-size: 1.2em !important;
+  }
+  .recuo { 
+    text-indent:2em;
+    text-align: justify;
+  }
+
+  .featured-text {
+    padding: 0px;
+    list-style-type: none;
+  }
+  
+}

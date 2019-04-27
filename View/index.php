@@ -356,10 +356,10 @@
             <!-- Featured Project Row -->
             <div class="row mt-5 mb-4 mb-lg-5">
               <div class="col-xl-12 col-lg-12">
-                <div class="featured-text text-center text-lg-left">
-                  <h4 class="text-black">Mais vantagens:</h4>
+                <div class="featured-text text-lg-left">
+                  <h4 class="text-black text-center ">Mais vantagens:</h4>
                   <hr class="divider-main d-lg-none">
-                  <ul style="list-style-type:disc;">
+                  <ul class="list-m">
                     <li><p>Vistoria regular do condomínio providenciando ações de ordem específica para manutenção e conservação assim que verificadas;</p></li>
                     <li><p>Avaliação periódica do condomínio e exposição da visão profissional ao conselho elegendo e viabilizando as prioridades a serem trabalhadas;</p></li>
                     <li><p>Apresentação dos 03 orçamentos/cotações para manutenções em geral no Condomínio;</p></li>
@@ -395,10 +395,10 @@
             <!-- Featured Project Row -->
             <div class="row mt-5 mb-4 mb-lg-5">
               <div class="col-xl-12 col-lg-12">
-                <div class="featured-text text-center text-lg-left">
-                  <h4 class="text-black">Outras vantagens do síndico profissional:</h4>
+                <div class="featured-text text-lg-left">
+                  <h4 class="text-black text-center">Outras vantagens do síndico profissional:</h4>
                   <hr class="divider-main d-lg-none">
-                  <ul style="list-style-type:disc;">
+                  <ul class="list-m">
                     <li><p>Administrar o quadro de funcionários para garantir a correta execução dos serviços;</p></li>
                     <li><p>Controlar os prazos das manutenções periódicas, a fim de garantir o bom funcionamento e segurança;</p></li>
                     <li><p>Orientar, advertir e aplicar as penalidades quando necessário para garantir o cumprimento da convenção e do regimento;</p></li>
@@ -424,7 +424,7 @@
     <div class="modal-dialog modal-lg" role="document">
       <div class="modal-content">
         <div class="modal-header">
-          <h2 class="modal-title" id="exampleModalLabel">Síndico Profissional</h2>
+          <h2 class="modal-title" id="exampleModalLabel">Constituição de Condomínios</h2>
           <button type="button" class="close" data-dismiss="modal" aria-label="Close">
             <span aria-hidden="true">&times;</span>
           </button>
@@ -567,10 +567,17 @@
     </section>
 
     <!-- Footer -->
-    <footer class="bg-black small text-center text-white-50">
-      <div class="container">
-        Copyright &copy; Síndico Pró MS 2019
-      </div>
+    <footer class="bg-black small text-white-50 pt-4 pb-3">
+            <div class="container">
+                <div class="bottom-footer">
+                    <div class="row">
+                      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                          <p class="float-left mb-0">Copyright © 2019 <strong><a href="https://www.sindicoproms.com.br">Sindico Pró MS</a></strong>.Todos os Direitos Reservados.</p>
+                          <p class="float-right">Made by<a href="https://github.com/jonathanJHK" target="_blank"> Jonathan H.</a></p>
+                      </div>
+                    </div>
+                </div>
+              </div>
     </footer>
 
     <!-- Bootstrap core JavaScript -->
